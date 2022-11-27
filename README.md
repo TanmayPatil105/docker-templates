@@ -2,7 +2,7 @@
 
 # Installation
 
-> Follow official website for installation of docker and docker compose
+> Follow official website for installation of docker and docker-compose
 
 ## Templates
 
