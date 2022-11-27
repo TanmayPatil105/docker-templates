@@ -1,4 +1,9 @@
 # Docker templates
 
-### This repository contains docker templates for building Dev, Debug, Test and Run images for your application
+# Installation
 
+> Follow official website for installation of docker and docker compose
+
+## Templates
+
+- [React-App](https://github.com/TanmayPatil105/docker-files/tree/main/react-app)
