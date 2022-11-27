@@ -1,6 +1,6 @@
 ## Guidelines
 
-Add [Dockerfile](https://github.com/TanmayPatil105/docker-files/edit/main/react-app/Dockerfile) and [docker-compose](https://github.com/TanmayPatil105/docker-files/edit/main/react-app/docker-compose.yml)
+Add [Dockerfile](https://github.com/TanmayPatil105/docker-files/blob/main/react-app/Dockerfile) and [docker-compose](https://github.com/TanmayPatil105/docker-files/blob/main/react-app/docker-compose.yml)
 to your project directory
 
 ###  Build
