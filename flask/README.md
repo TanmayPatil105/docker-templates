@@ -11,6 +11,6 @@ sudo docker-compose up
 
 ### What is happening?
 
-> Docker binds PORT 3000 of the docker container to the PORT 3000 of localhost
+> Docker binds PORT 5000 of the docker container to the PORT 5000 of localhost
 
 > We use Docker volumes and bind mounts to manage data in Docker containers
