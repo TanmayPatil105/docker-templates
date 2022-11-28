@@ -1,6 +1,6 @@
 # Docker templates
 
-Docker templates to make your life easier
+Docker templates to make your life easier :)
 
 # Installation
 
