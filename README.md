@@ -9,3 +9,4 @@ Docker templates to make your life easier :)
 ## Templates
 
 - [React](https://github.com/TanmayPatil105/docker-files/tree/main/react-app)
+- [Flask](https://github.com/TanmayPatil105/docker-files/tree/main/flask)
