@@ -8,4 +8,4 @@ Docker templates to make your life easier
 
 ## Templates
 
-- [React-App](https://github.com/TanmayPatil105/docker-files/tree/main/react-app)
+- [React](https://github.com/TanmayPatil105/docker-files/tree/main/react-app)
