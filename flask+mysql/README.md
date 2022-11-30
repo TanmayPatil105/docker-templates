@@ -13,4 +13,4 @@ sudo docker-compose up
 
 ### Additional:
 
-`It may take few time for creation of database `
+`It may take few time for the creation of database `
