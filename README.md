@@ -11,3 +11,9 @@ Docker templates to make your life easier :)
 - [React](https://github.com/TanmayPatil105/docker-files/tree/main/react-app)
 - [Flask](https://github.com/TanmayPatil105/docker-files/tree/main/flask)
 - [Flask + MySQL](https://github.com/TanmayPatil105/docker-files/tree/main/flask+mysql)
+
+## Script to delete all docker images and containers
+
+```bash
+$ ./docker-del.sh
+```
