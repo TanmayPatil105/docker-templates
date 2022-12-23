@@ -12,6 +12,7 @@ Docker templates to make your life easier :)
 - [Flask](https://github.com/TanmayPatil105/docker-files/tree/main/flask)
 - [MySQL](https://github.com/TanmayPatil105/docker-files/tree/main/mysql)
 - [Flask + MySQL](https://github.com/TanmayPatil105/docker-files/tree/main/flask+mysql)
+- [go](https://github.com/TanmayPatil105/docker-files/tree/main/go)
 
 
 ## Script to delete all docker images and containers
