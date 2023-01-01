@@ -20,3 +20,10 @@ Docker templates to make your life easier :)
 ```bash
 $ ./docker-del.sh
 ```
+
+### Additional
+
+- Script to delete snapcraft VMs
+```
+$ ./snap-del.sh
+```
