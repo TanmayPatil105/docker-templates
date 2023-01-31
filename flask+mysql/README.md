@@ -8,7 +8,7 @@ Copy [Dockerfile](https://github.com/TanmayPatil105/docker-templates/blob/main/f
 ###  Build
 
 ~~~
-sudo docker-compose up
+sudo docker compose up
 ~~~
 
 ### Additional:

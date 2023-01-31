@@ -6,7 +6,7 @@ to your project directory
 ###  Build
 
 ~~~
-sudo docker-compose up
+sudo docker compose up
 ~~~
 
 ### What is happening?
